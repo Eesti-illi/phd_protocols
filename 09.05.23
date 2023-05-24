@@ -1,0 +1,20 @@
+Meeting in HH, 
+Alexa, Julia, ilmar 
+
+Impressions of EGU23:
+  - A lot of people showed interest in our poster. 
+  - There was some explanation regarding why slopes at small ranges do not decline, which was attributed to a resolution issue. 
+  - Additionally, there was a suggestion to investigate ocean particles with "Ocean Parcels"
+
+Spectral Fluxes:
+  - Maybe we should consider trying another method. We can look up the paper where they compared different methods to calculate fluxes. 
+  - It would be beneficial to stay within box 1 for calculations since we have the best resolution there.
+  - We should also conduct sensitivity tests by varying the box size, depths, and different averaging methods over depths -> This will help us determine how the slope changes.
+  
+  Add diagonals to the calculation method of velocity structure functions
+  
+  Use "Ocean Parcels" for particle tracking within the Model
+  
+  Nils will probably look into spectral slopes and analysis of Spectral Flux, so we should focus on velocity structure functions.
+  
+  Prioritization: Continue with particle tracking!
